@@ -23,7 +23,7 @@ void main() {
   int peso = 61;
   double altura = 1.69;
   double imc = peso / (altura * altura);
-  print('O ${nome2} possue um IMC de ${imc.toStringAsFixed(2)');
+  print('A ${nome2} possue um IMC de ${imc.toStringAsFixed(2)}');
   
  
   
